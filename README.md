@@ -18,19 +18,25 @@
   <td width="50%">
 
 <br><p align="center">Everything here is Open Source!<br><br>
-[![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/allanpereirafenelon/)
+  <div>
+    <p align = "center">
+    <a href="https://www.linkedin.com/in/allanpereirafenelon/" target="_blank"><img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue" target="_blank"></a>
+    <a href="https://www.instagram.com/a.allaaaaan_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" target="_blank"></a>
+    </p>
+  </div>
 
 </p>
   </td>
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muranoban&show_icons=true&theme=onedark&locale=en&layout=compact" alt="muranoban" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muranoban&show_icons=true&theme=dracula&locale=en&layout=compact" alt="muranoban" /></p>
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=muranoban&show_icons=true&theme=onedark&locale=en" alt="muranoban" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=muranoban&show_icons=true&theme=dracula&locale=en" alt="muranoban" /></p>
   </td>
- 
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+ 
+  
+
